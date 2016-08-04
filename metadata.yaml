@@ -1,0 +1,28 @@
+_repo: Famous-Affinities-of-History--The-Romance-of-Devotion.-Volume-4_4692
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orr, Lyndon
+    gutenberg_agent_id: '1548'
+    url: http://www.gutenberg.org/2009/agents/1548
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Women -- Biography'
+- !lcsh 'Biography'
+- !lcsh 'Love'
+- GITenberg
+tableOfContents: Dean Swift and the two Esthers -- Percy Bysshe Shelley and Mary Godwin
+  -- The story of the Carlyles -- The story of George Sand -- The mystery of Charles
+  Dickens -- Honoré de Balzac and Evelina Hanska -- Charles Reade and Laura Seymour.
+title: 'Famous Affinities of History: The Romance of Devotion. Volume 4'
+url: http://www.gutenberg.org/ebooks/4692
